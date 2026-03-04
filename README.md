@@ -1,4 +1,4 @@
-# 中转站计费方式
+# 中转站价格对比
 
 > 📊 价格数据来源：各平台官网 & [getcheapai.com](https://www.getcheapai.com)
 
